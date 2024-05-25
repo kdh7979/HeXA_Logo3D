@@ -17,7 +17,7 @@ function createMaterial() {
   const textureRough = textureLoader.load('/assets/worn-shiny-metal-Roughness.png');
   const textureHeight = textureLoader.load('/assets/worn-shiny-metal-Height.png');
   const textureNormal = textureLoader.load('/assets/worn-shiny-metal-Normal-dx.png');
-  const textureColor = textureLoader.load('/assets/hexa_logo_blue.png');
+  const textureColor = textureLoader.load('/assets/hexa_logo_renewed.png'); // original code: use hexa_logo_blue.png
 
   const radian_to_rotate = MathUtils.degToRad(30);
   textureColor.rotation = radian_to_rotate;
