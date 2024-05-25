@@ -1,5 +1,5 @@
 # HeXA_Logo3D
-
+![three.js_시연](https://github.com/kdh7979/HeXA_Logo3D/assets/42886272/5f3c2a54-d4b3-44d7-845d-1c458e1f10d5)
 ## 작품 소개
 Three.js를 활용해 웹사이트 상에 3D 가상 공간에 3D 오브젝트, 빛, 카메라를 활용해 3D 장면을 렌더링합니다.
 
