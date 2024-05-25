@@ -9,7 +9,7 @@ class Loop {
         this.renderer = renderer;
         this.updatables = [];
     }
-    
+
     start() {
         this.renderer.setAnimationLoop(() => {
             this.tick();
