@@ -1,5 +1,5 @@
 # HeXA_Logo3D
-![three.js_시연](https://github.com/kdh7979/HeXA_Logo3D/assets/42886272/5f3c2a54-d4b3-44d7-845d-1c458e1f10d5)
+![three.js_시연](https://github.com/kdh7979/HeXA_Logo3D/assets/42886272/c5d2b2a3-edaa-4e9b-a209-665b3d1285b4)
 ## 작품 소개
 Three.js를 활용해 웹사이트 상에 3D 가상 공간에 3D 오브젝트, 빛, 카메라를 활용해 메탈릭한 3D 헥사 로고를 보여줍니다. 화면을 드래그하여 물체를 회전할 수 있습니다.
 
